@@ -1,0 +1,189 @@
+HTML- Hypertext Markup Language
+
+Static Page
+
+
+HTML Document 
+ 
+Tag 
+1) Container Tag
+
+   < > asdasd  </ >
+
+
+2) Empty  Tag or Self Closed
+  
+   < />
+
+
+3) Special  Tag
+
+   &#8377;  
+   &copy;  (C)
+
+How to Create HTML page
+
+Basic Syntax of HTML 
+
+<!DOCTYPE html>
+<html>
+
+   <head>
+     <title>
+
+     </title>
+   </head>
+   <body>
+
+   
+   </body>
+</html>
+
+
+Basic Formatting Tags 
+  
+  Heading 
+      <h1> </h1>
+      
+      
+      <h6> </h6>
+  
+  Paragraphs 
+  <p> </p>
+  
+  Bold 
+  <b> </b> or <strong> </strong>
+  
+  
+  Italic 
+  <i> </i> or  <em> </em>
+  
+  Underline
+  <u> </u> or <ins> </ins>
+  
+SuperScript 
+
+X<sup>2</sup>
+
+  
+ SubScript
+CO<sub>2</sub>
+
+Mark 
+<mark> </mark>
+
+Del 
+<del> </del>
+
+Fonts 
+<font> </font>
+
+Horizontal Rule 
+<hr /> to draw a line 
+<hr color="red" size="10px" width="30%" align="left"/>
+Break Row
+
+<br /> to break the line
+  
+Assignment First:
+
+List 
+Order List 
+1) Indian 
+2) Pakistan 
+3) Australia
+
+Unorder List 
+
+> India 
+> Pakistan 
+> Australia 
+
+Nested List 
+
+Electronic 
+   
+    Tv 
+      Samsung
+      MI
+    Mobile
+      Redmi
+      vivo
+Toys 
+   
+   0-5
+      Teddy Bear
+      Trains
+   
+Description List 
+
+Heading Here 
+   lorem 
+Heading Here 
+   lorem 
+Heading Here 
+   lorem 
+
+
+
+
+Image
+
+<img src="" />
+
+Website 
+   
+    image
+      p1.jpg
+    page 
+      index2.html <img src="../a1.jpg" />
+                  <img src="../image/p1.jpg" />
+                  
+index.html <img src="a1.jpg" />
+a1.jpg     <img src="image/p1.jpg" />
+
+
+Marquee
+<marquee>
+  Hello 
+</marquee>
+
+<marquee scrollamount="40" direction="right" behavior="alternate" onmouseover="this.stop()" onmouseout="this.start()"> 
+             Good Afternoon everyone
+         </marquee>
+
+
+Table 
+
+<table>
+
+</table>
+
+Row <tr> </tr> Table Row 
+Col <td> </td> Table Data 
+    <th> </th> Table Heading 
+
+colspan="2"
+rowspan="3"
+
+Anchor 
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
