@@ -3,9 +3,15 @@
 		 ==== RESUME ==== 
 
 
- 	 Name : TEJASWINI KHARCHE
+ 	 Name : tejaswini kharche
  	 Age: 22
- 	 Course: BE CSE
+ 	 Date Of Birth :29/11/1997
+ 	 Sex :female
+ 	 Merrital Status :not married
+ 	 Nationality :indian
+ 	 hobbies :drawing, cooking ,eating, studing
+ 	 Strength :manage work and coordination
+ 	 Language :hindi, english, marathi
+ 	 Course: B.E computer science
  	 HIGH _SCHOOL_PERCENTAGE :76
- 	 HIGH_SECONDARY _SCHOOL_PERCENTAGE 78
- 	 Address : 199N3 C SECTOR PIPLANI ,BHOPAL
+ 	 :HIGH_SECONDARY _SCHOOL_PERCENTAGE 78
